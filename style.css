@@ -139,7 +139,10 @@ h4 {
     width: 100%;
   }
 .hero22 {
-  margin-top: 75vh;
+  margin-top: 70vh;
+}
+  .hero {
+  margin-top:40vh;
 }
   .hero22 .hero-heading,
   .hero .hero-heading {
