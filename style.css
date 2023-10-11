@@ -45,7 +45,7 @@ hr {
   height: 25rem;
   border-radius: 6px;
   box-shadow: 0 25px 20px 0 rgba(255, 255, 255,0.1);
-  /* margin-bottom: 2em; */
+  /* margin-bottom: 2rem; */
   background-color: white;
 }
 
@@ -70,7 +70,7 @@ h4 {
 
 .hero22 .hero-heading {
   text-align: center;
-  margin: 2em;
+  margin: 2rem;
   padding-top: 1rem;
   color: var(--primary-color);
   font-family: "Pacifico";
@@ -99,7 +99,7 @@ h4 {
 
 .hero .hero-heading {
   text-align: center;
-  margin: 2em;
+  margin: 2rem;
   padding-top: 1rem;
   color: var(--primary-color);
   font-family: "Pacifico";
