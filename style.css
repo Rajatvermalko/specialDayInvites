@@ -39,7 +39,7 @@ hr {
 /** container **/
 .container {
   padding: 2rem;
-  margin-bottom: 25rem;
+  margin-bottom: 20rem;
   z-index: 100;
   position: relative;
   height: 25rem;
@@ -62,7 +62,7 @@ h4 {
   text-align: center;
 }
 .hero22 {
-  margin-top: 80vh;
+  margin-top: 85vh;
   text-align: center;
   position: sticky;
   top: 0;
