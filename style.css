@@ -134,24 +134,18 @@ h4 {
     background-color: var(--off-white);
   }
 
-@media (max-width: 150px) {
+@media screen and (max-width: 750px) {
   body {
-    max-width: 95%;
     width: 100%;
   }
-
-  .list-item-inline {
-    display: inline;
-    padding: 0rem;
-  }
-
-  .container-center {
-    width: auto;
-  }
-
-  .link-primary {
-    display: block;
-  }
+.hero22 {
+  margin-top: 75vh;
+}
+  .hero22 .hero-heading,
+  .hero .hero-heading {
+  margin: 1rem;
+  font-size: 25px;
+}
 }
 
 ::-webkit-scrollbar {
