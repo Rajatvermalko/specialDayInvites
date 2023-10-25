@@ -100,6 +100,9 @@ font-size: 2rem;
     width: 95%;
     /* gap: 3rem; */
   }
+  .flx-container p{
+   font-size: 24px;
+     }
   .flx{
     text-align: center;
     /* justify-content: center;
